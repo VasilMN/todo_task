@@ -1,0 +1,21 @@
+.conteiner{
+  margin-top: 60px;
+
+
+}
+
+.strong {
+  font-size: 32px;
+  color: #979797;
+
+  
+}
+.opasity{
+  color: #AFAFAF;
+  margin-left: 80px;
+ }
+@media (max-width:500px) {
+  .conteiner{
+    display: none;
+  }
+}

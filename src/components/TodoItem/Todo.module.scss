@@ -1,0 +1,33 @@
+.container {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+}
+.button {
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.content {
+    margin-top: 15px;
+}
+.checkbox {
+   width: 18px;
+   height: 18px;
+}
+@media (max-width: 500px) {
+    .container {
+        width: 400px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        font-size: 20px;
+        margin-left: 40px;
+     
+    }
+}

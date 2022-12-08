@@ -1,2 +1,10 @@
 # todo_task
-This Repository includes todo task implementation.
+This repository includes 'todo' task's implementation.
+
+For running 'todo' task do the following steps:
+- yarn/npm install(short i)
+- yarn dev/ npm run dev
+
+Enjoy! :)
+
+
